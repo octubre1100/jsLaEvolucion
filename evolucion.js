@@ -1,4 +1,3 @@
-} 
 function parcitos (num) {
     num = Number(prompt("Elija un numero para comprobar"))
     if (num % 2 == 0) {
