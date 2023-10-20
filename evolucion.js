@@ -1,12 +1,3 @@
-function examen (año) {
-    año = Number(prompt("¿Cuando fue la segunda guerra mundial?"))
-    if ((año > 1939) && (año < 1946)) {
-        alert("Alto capoeira")
-    }
-    else {
-        alert("tremendo malo")
-    } 
-   
 } 
 function parcitos (num) {
     num = Number(prompt("Elija un numero para comprobar"))
