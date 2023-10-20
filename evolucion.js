@@ -31,11 +31,11 @@ function positivoNegativoCero (num) {
         console.log("tu número es positivo")
         return "tu número es positivo"
     }
-    if (num <= -1) {
+    else if (num <= -1) {
         console.log("tu número es negativo")
         return "tu número es negativo"
     }
-    if (num == 0) {
+    else if (num == 0) {
         console.log("tu numero es 0")
         return "tu numero es 0"
     }
